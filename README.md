@@ -1,4 +1,4 @@
-<h1>Hi, I'm David! <br/><a href="https://www.linkedin.com/in/david-ortiz-210190205/">Cybersecurity Professional</a>
+<h1>Hi, I'm David! <br/><a href="https://www.linkedin.com/in/david-ortiz-210190205/" target="_blank" rel="noopener noreferrer">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
