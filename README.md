@@ -1,4 +1,4 @@
-<h1>Hi, I'm David! <br/><a href="(https://www.linkedin.com/in/david-ortiz-210190205/">Programmer</a>, <a 
+<h1>Hi, I'm David! <br/><a href="(https://www.linkedin.com/in/david-ortiz-210190205/" target="_blank" rel="noopener noreferrer">Programmer</a>, <a 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -9,7 +9,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [youtube]: https://www.youtube.com/c/joshmadakor
-[linkedin]: https://www.linkedin.com/in/david-ortiz-210190205/
+[linkedin]: https://www.linkedin.com/in/david-ortiz-210190205/ 
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
