@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 https://github.com/RazonIn4K/Azure-Honeynet-SOC
 
-<h2>📺 Certifications
+<h2>📺 Certifications</h2>
 CompTIA Security+
 CompTIA Network
 CompTIA A
