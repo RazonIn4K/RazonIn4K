@@ -1,61 +1,51 @@
 # 👋 Hi, I'm David Ortiz
 
-## 🎯 Cybersecurity Professional | Penetration Testing Enthusiast | AI Security Researcher
+## 🎯 Cybersecurity Professional | Security Engineering & Automation | AI-Augmented Learning
 
-I'm a cybersecurity student at WGU pursuing offensive security with a unique focus on bridging traditional pentesting with AI security challenges. Currently preparing for the PNPT certification while building practical tools that automate and enhance security testing workflows.
+I'm a cybersecurity student at WGU focused on practical security engineering and automation. I build tools, workflows, and learning systems that make security work faster, clearer, and more reliable.
 
-### 🛡️ What I Do
-
-- 🔴 **Offensive Security**: Daily practice on HTB, PNPT labs, and custom vulnerable environments
-- 🤖 **AI Security Research**: Building tools that leverage AI for recon, vulnerability analysis, and exploit development
-- 🔵 **Purple Team Mindset**: Understanding both attack and defense for more impactful security assessments
-- 🛠️ **Automation**: Creating Python tools that reduce manual testing time by 70%+
+- 🔴 Offensive/Adversarial thinking with a purple-team mindset
+- 🤖 AI-assisted recon, analysis, reporting, and learning workflows
+- 🛠️ Python-first automation to reduce manual toil and improve repeatability
+- 🌐 Portfolio: https://cs-learning.me
 
 ### 📜 Certifications
 - ✅ CompTIA Security+
-- ✅ CompTIA Network+
-- ✅ CompTIA A+
 - ✅ Linux Essentials
-- ✅ CCNA
-- 🎯 PNPT (In Progress - Target: July 2025)
+- ⏳ Exploring next certification path (e.g., PNPT/TCM/etc.) — timeline TBD
 
 ### 🚀 Featured Projects
 
-#### 🍯 [Azure Honeynet & SOC Lab](https://github.com/RazonIn4K/Azure-Honeynet-SOC)
-Purple team project where I:
-- Deployed vulnerable Azure infrastructure attracting 20,000+ real attacks
-- Analyzed attack patterns and TTPs from global threat actors
-- Achieved 96-100% security score through systematic remediation
-- Created detailed attack visualizations and incident response documentation
-
 #### 🔧 Offensive Security Automation Suite
-Collection of 15+ custom tools including:
-- **Recon Automation**: Streamlined enumeration reducing time by 70%
-- **Vulnerability Research**: NVD/GitHub integration with AI analysis
-- **Web App Testing**: Playwright/Selenium frameworks for automated testing
-- **Custom Exploits**: Python-based tools for specific attack scenarios
+Collection of custom tools and workflows to accelerate recon, triage, and reporting:
+- Recon automation (significant time reduction on enumeration)
+- AI-assisted vulnerability triage and note-taking
+- Playwright-based web testing helpers and repeatable scripts
 
-#### 🤖 AI-Enhanced Security Tools
-- **RAG-powered vulnerability analysis**: Context-aware security recommendations
-- **Automated report generation**: Transform scan results into actionable reports
-- **Intelligent fuzzing**: AI-guided input generation for better coverage
+#### 📚 Database Learning Portfolio
+- Repository: https://github.com/RazonIn4K/database-learning-portfolio
+- Focus: Professional schema design, SQL performance, and operational patterns
+
+#### 🎨 Developer Portfolio
+- Repository: https://github.com/RazonIn4K/david-ortiz-portfolio
+- Purpose: Modern, fast personal portfolio foundation
 
 ### 💻 Technical Stack
 
-**Offensive Tools**
+**Security & Testing**
 ```
-Burp Suite | Metasploit | Nmap | SQLMap | Gobuster | ffuf | John | Hashcat
+Burp Suite | Nmap | ffuf | Gobuster | SQLMap | Metasploit | John | Hashcat
 ```
 
 **Languages & Frameworks**
 ```python
-Python | Bash | PowerShell | JavaScript | Go (learning)
+Python | Bash | PowerShell | JavaScript
 Flask | FastAPI | Playwright | Selenium | BeautifulSoup
 ```
 
 **Cloud & Infrastructure**
 ```
-Azure | AWS | GCP | Docker | Kubernetes | Terraform
+Azure | AWS | Docker | Kubernetes | Terraform
 ```
 
 **Purple Team**
@@ -69,32 +59,24 @@ Splunk | ELK Stack | Wazuh | MITRE ATT&CK | Incident Response
 
 ### 🎯 Current Focus
 
-- 📚 Preparing for PNPT certification
-- 🔨 Building AI-powered penetration testing tools
-- 🌐 Contributing to open-source security projects
-- 📝 Documenting offensive security techniques and methodologies
+- Building AI-powered workflows for pentesting and security engineering
+- Advancing database fundamentals for secure data design and operations
+- Publishing write-ups, notes, and automation patterns to cs-learning.me
 
 ### 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/davidortizinfosec)
-- 📧 Email: davidinfosec07@gmail.com
-- 🐦 Twitter: [@YourTwitterHandle]
-- 🌐 Blog: [Your Blog URL]
+- 💼 LinkedIn: https://www.linkedin.com/in/david-ortiz-210190205/
+- 📧 Email: david@cs-learning.me
+- 🌐 Website: https://cs-learning.me
 
 ### 📈 2025 Goals
 
-- [ ] Pass PNPT certification
-- [ ] Contribute to 5+ major security tools
-- [ ] Release AI-powered pentesting framework
-- [ ] Complete 100 HTB/THM machines
-- [ ] Launch security blog with weekly writeups
+- [ ] Graduate WGU — BS Cybersecurity & Information Assurance (Dec 2025)
+- [ ] Contribute to 5+ security/automation tools
+- [ ] Release an AI-assisted pentesting/analysis toolkit
+- [ ] Complete 100 HTB/THM machines and publish learning notes
+- [ ] Publish weekly portfolio updates on cs-learning.me
 
 ---
 
-💡 **Fun Fact**: I believe the future of cybersecurity lies at the intersection of traditional pentesting skills and AI capabilities. That's why I'm building tools that leverage both!
-
-🔍 **Looking for**: Opportunities in penetration testing, red teaming, or security research where I can apply my unique blend of offensive security and AI expertise.
-
----
-
-*"The best way to predict the future is to build it"* - Especially when it comes to security tools! 🛠️
+💡 I believe the future of security lies at the intersection of strong fundamentals and intelligent tooling. My work focuses on building the glue between the two.
