@@ -9,7 +9,10 @@ I'm a cybersecurity student at WGU focused on practical security engineering and
 
 🐍 Python‑first automation to reduce manual toil and improve repeatability
 
-🌐 Portfolio: https://cs-learning.me
+🌐 Portfolio: https://davidtiz.com
+
+🧪 Razon Live Lab — study, build, and secure AI systems live: https://razonlab.com
+   YouTube: https://www.youtube.com/@razonlab · Twitch: https://www.twitch.tv/razonlab · X: https://x.com/Razonapp
 
 🛍️ ShopMatch Pro
 
@@ -98,7 +101,7 @@ LinkedIn: https://www.linkedin.com/in/david-ortiz-210190205/
 
 Email: david@cs-learning.me
 
-Website: https://cs-learning.me
+Website: https://davidtiz.com
 
 2025 Goals
 
