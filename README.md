@@ -1,118 +1,61 @@
-👋 Hi, I'm David Ortiz
-🛡️ Cybersecurity Professional | Security Engineering & Automation | AI‑Augmented Learning
+## Hi, I'm David Ortiz
 
-I'm a cybersecurity student at WGU focused on practical security engineering and automation. I build tools, workflows, and learning systems that make security work faster, clearer, and more reliable.
+I build practical web systems, automation workflows, and AI-security tools from DeKalb, IL.
 
-🔴 Offensive/Adversarial thinking with a purple‑team mindset
+My current work sits in two lanes:
 
-👾 AI‑assisted recon, analysis, reporting, and learning workflows
+- **HighEncode Learning**: local-business websites, lead-flow automations, and operator tooling for small teams.
+- **Prompt defense and AI security**: prompt-injection scanning, rules-based guardrails, and evaluation workflows for AI-assisted systems.
 
-🐍 Python‑first automation to reduce manual toil and improve repeatability
+I care about evidence-backed builds: working demos, readable code, documented tradeoffs, and checks that make the next iteration easier.
 
-🌐 Portfolio: https://davidtiz.com
+## Current Focus
 
-🧪 Razon Live Lab — study, build, and secure AI systems live: https://razonlab.com
-   YouTube: https://www.youtube.com/@razonlab · Twitch: https://www.twitch.tv/razonlab · X: https://x.com/Razonapp
+- Shipping focused websites and automation systems for operators who need clearer intake, follow-up, and handoff flows.
+- Building and polishing Prompt Defenders as a prompt-injection scanner and rules engine.
+- Turning AI-security evaluation work into public-safe defensive artifacts: threat models, checklists, scoring rubrics, and reproducible toy cases.
+- Using multi-AI workflows carefully: source checks first, tool boundaries explicit, and public claims verified before publishing.
 
-🛍️ ShopMatch Pro
+## Selected Work
 
-A modern job board platform built with Next.js 15, Firebase and Stripe that connects job seekers with opportunities through a subscription‑based model.
+### Prompt Defenders
 
-Key Features
+Privacy-first prompt-injection scanner with a versioned rule pack, severity scoring, API surface, CLI workflow, and public rule documentation.
 
-For Job Seekers: Browse and search job listings, apply with cover letters, track application status and enjoy a personalized dashboard.
+- Repo: https://github.com/RazonIn4K/prompt-defenders
+- Use case: pre-LLM request scanning, prompt-library review, and guardrail triage.
 
-For Employers (subscription required): Post unlimited job listings, manage applications, view application analytics and edit or close job postings.
+### davidtiz.com
 
-Platform Highlights: Secure authentication (Email/Password + Google OAuth), Stripe subscription integration, real‑time updates with Firebase, responsive design and built with Next.js 15 + Turbopack.
+Personal portfolio and notebook for selected work, operating notes, and project experiments.
 
-Tech Stack: Next.js 15.5.4, TypeScript (strict mode), Firebase Auth with role‑based access control, Cloud Firestore, Stripe Checkout & Subscriptions, Tailwind CSS v4 with shadcn/ui components, React Hook Form + Zod validation and React Context API.
+- Repo: https://github.com/RazonIn4K/david-ortiz-portfolio
+- Site: https://davidtiz.com
 
-Check out the project repository here: shopmatch‑pro
- and the live demo at shopmatch-pro.vercel.app
-.
+### HighEncode Learning
 
-📜 Certifications
+Commercial surface for local-business websites, practical automations, and AI tooling.
 
-✅ CompTIA Security+
+- Site: https://highencodelearning.com
 
-✅ Linux Essentials
+### ShopMatch Pro
 
-⏳ Exploring next certification path (e.g., PNPT/TCM/etc.) — timeline TBD
+Full-stack job-board project using Next.js, Firebase, Stripe, TypeScript, and role-based dashboards.
 
-🚀 Featured Projects
-🛠 Offensive Security Automation Suite
+- Repo: https://github.com/RazonIn4K/shopmatch-pro
 
-Collection of custom tools and workflows to accelerate recon, triage, and reporting:
+## Technical Stack
 
-Recon automation (significant time reduction on enumeration)
+**Web and product:** Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, Vercel
 
-AI‑assisted vulnerability triage and note‑taking
+**Automation and data:** Python, Bash, Playwright, APIs, Firebase, Firestore, Stripe
 
-Playwright‑based web testing helpers and repeatable scripts
+**Security and AI workflows:** prompt-injection testing, rule-based detection, threat modeling, MITRE ATT&CK/ATLAS mapping, Burp Suite, Nmap, ffuf
 
-🐘 Database Learning Portfolio
+**Operating style:** source-first research, browser verification, tests where they matter, and written handoff notes.
 
-Repository: https://github.com/RazonIn4K/database-learning-portfolio
+## Connect
 
-Focus: Professional schema design, SQL performance and operational patterns
-
-🎨 Developer Portfolio
-
-Repository: https://github.com/RazonIn4K/david-ortiz-portfolio
-
-Purpose: Modern, fast personal portfolio foundation
-
-🛠️ Technical Stack
-
-Security & Testing
-
-Burp Suite | Nmap | ffuf | Gobuster | SQLMap | Metasploit | John | Hashcat
-
-
-Languages & Frameworks
-
-Python | Bash | PowerShell | JavaScript
-Flask | FastAPI | Playwright | Selenium | BeautifulSoup
-
-
-Cloud & Infrastructure
-
-Azure | AWS | Docker | Kubernetes | Terraform
-
-
-Purple Team
-
-Splunk | ELK Stack | Wazuh | MITRE ATT&CK | Incident Response
-
-GitHub Stats
-
-Current Focus
-
-Building AI‑powered workflows for pentesting and security engineering
-
-Advancing database fundamentals for secure data design and operations
-
-Publishing write‑ups, notes, and automation patterns to cs-learning.me
-
-Let's Connect
-
-LinkedIn: https://www.linkedin.com/in/david-ortiz-210190205/
-
-Email: david@cs-learning.me
-
-Website: https://davidtiz.com
-
-2025 Goals
-
- Graduate WGU — BS Cybersecurity & Information Assurance (Dec 2025)
-
- Contribute to 5+ security/automation tools
-
- Release an AI‑assisted pentesting/analysis toolkit
-
- Complete 100 HTB/THM machines and publish learning notes
-
- Publish weekly portfolio updates on cs-learning.me
-
-I believe the future of security lies at the intersection of strong fundamentals and intelligent tooling. My work focuses on building the glue between the two.
+- Portfolio: https://davidtiz.com
+- LinkedIn: https://www.linkedin.com/in/davidortiz-dekalb/
+- Email: hello@davidtiz.com
